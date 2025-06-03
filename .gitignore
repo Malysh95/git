@@ -3,4 +3,4 @@
 .idea
 .env
 names.txt
-_pycache_
+__pycache__
